@@ -20,4 +20,4 @@ The application could prove exceptionally useful for:
 More Information
 ------------
 
-You can find more information <a href="www.green-navigator.eu">here</a>
+You can find more information <a href="http://www.green-navigator.eu">here</a>
